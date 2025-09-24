@@ -30,7 +30,7 @@ namespace Laboratorio31
 			Console.WriteLine("El resultado de (a+b)*(a-b) es: " + resultado);
 
 			Console.WriteLine("Presione una tecla para salir...");
-			Console.ReadKey();
+			
 		}
 	}
 }
