@@ -1,8 +1,3 @@
-// Archivo: Program.cs
-// Proyecto: Laboratorio2
-// Namespace: Laboratorio2
-// Lenguaje: C#
-// Este es el código del laboratorio 2. Solo ejemplos de sintaxis y tipos básicos.
 
 using System;
 
