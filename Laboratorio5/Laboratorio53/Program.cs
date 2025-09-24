@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string[] frutas = { "manzana", "plátano", "naranja" };
+
+        foreach (string fruta in frutas)
+        {
+            Console.WriteLine(fruta);
+        }
+
+        Console.ReadKey();
+    }
+}
