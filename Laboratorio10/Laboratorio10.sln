@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio101", "Laboratorio101\Laboratorio101.csproj", "{0B3B765F-DE0F-4FC8-82FF-91D89D504612}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laboratorio101", "Laboratorio101\Laboratorio101.vbproj", "{0B3B765F-DE0F-4FC8-82FF-91D89D504612}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio102", "Laboratorio102\Laboratorio102.csproj", "{E92F2574-A2FB-4958-AEEC-9DC0E2F95246}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laboratorio102", "Laboratorio102\Laboratorio102.vbproj", "{E92F2574-A2FB-4958-AEEC-9DC0E2F95246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio103", "Laboratorio103\Laboratorio103.csproj", "{3FF76E80-9DFE-454E-B1DB-537ED1C287DF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laboratorio103", "Laboratorio103\Laboratorio103.vbproj", "{3FF76E80-9DFE-454E-B1DB-537ED1C287DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio104", "Laboratorio104\Laboratorio104.csproj", "{D9D4BD5B-3CAB-456E-8DFF-174B2B5D969A}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laboratorio104", "Laboratorio104\Laboratorio104.vbproj", "{D9D4BD5B-3CAB-456E-8DFF-174B2B5D969A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
