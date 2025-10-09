@@ -1,0 +1,15 @@
+/workspaces/ds4/Parcial1/bin/Debug/net8.0/Parcial1
+/workspaces/ds4/Parcial1/bin/Debug/net8.0/Parcial1.deps.json
+/workspaces/ds4/Parcial1/bin/Debug/net8.0/Parcial1.runtimeconfig.json
+/workspaces/ds4/Parcial1/bin/Debug/net8.0/Parcial1.dll
+/workspaces/ds4/Parcial1/bin/Debug/net8.0/Parcial1.pdb
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.AssemblyInfoInputs.cache
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.AssemblyInfo.cs
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.csproj.CoreCompileInputs.cache
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.sourcelink.json
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.dll
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/refint/Parcial1.dll
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.pdb
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/Parcial1.genruntimeconfig.cache
+/workspaces/ds4/Parcial1/obj/Debug/net8.0/ref/Parcial1.dll
