@@ -1,0 +1,10 @@
+# Carpetas y archivos de build de Visual Studio/C# que se deben ignorar
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+# Carpetas de caché y configuración de Visual Studio
+.vs/
+# Archivos de depuración y logs
+*.pdb
+*.log
