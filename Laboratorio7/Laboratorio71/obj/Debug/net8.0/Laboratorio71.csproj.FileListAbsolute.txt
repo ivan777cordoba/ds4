@@ -1,0 +1,15 @@
+/workspaces/ds4/Laboratorio7/Laboratorio71/bin/Debug/net8.0/Laboratorio71
+/workspaces/ds4/Laboratorio7/Laboratorio71/bin/Debug/net8.0/Laboratorio71.deps.json
+/workspaces/ds4/Laboratorio7/Laboratorio71/bin/Debug/net8.0/Laboratorio71.runtimeconfig.json
+/workspaces/ds4/Laboratorio7/Laboratorio71/bin/Debug/net8.0/Laboratorio71.dll
+/workspaces/ds4/Laboratorio7/Laboratorio71/bin/Debug/net8.0/Laboratorio71.pdb
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.AssemblyInfoInputs.cache
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.AssemblyInfo.cs
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.csproj.CoreCompileInputs.cache
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.sourcelink.json
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.dll
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/refint/Laboratorio71.dll
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.pdb
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/Laboratorio71.genruntimeconfig.cache
+/workspaces/ds4/Laboratorio7/Laboratorio71/obj/Debug/net8.0/ref/Laboratorio71.dll
