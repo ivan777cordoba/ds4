@@ -1,0 +1,13 @@
+# Archivos de Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.VC.db
+*.opensdf
+*.sdf
+*.log
